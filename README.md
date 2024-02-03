@@ -32,10 +32,22 @@
    git commit -m <"Your message">
    ```
 
-6. Push all the changes:
+6. To change or checkout Branch:
+
+   ```bash
+   git checkout -b <branch Nmae>
+   ```
+
+7. Push all the changes:
 
    ```bash
    git push origin <branch Nmae>
+   ```
+
+   push in specific branch
+
+   ```bash
+   git push -u origin <branch Nmae>
    ```
 
    > References

@@ -50,7 +50,7 @@
    git push -u origin <branch Nmae>
    ```
 
-   > References
+### References
 
 - [Laravel](https://laravel.com/docs/10.x/installation)
 - [Git Commands](https://github.com/git-guides/install-git)

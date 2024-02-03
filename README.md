@@ -20,7 +20,7 @@
    git init
    ```
 
-4. Add changes into respository:
+4. Add changes to repository:
 
    ```bash
    git add . or git add <file/folder name>
@@ -44,12 +44,13 @@
    git push origin <branch Nmae>
    ```
 
-   push in specific branch
+   push in a specific branch
 
    ```bash
    git push -u origin <branch Nmae>
    ```
 
-   > References
+### References
 
-- ![Laravel](https://laravel.com/docs/10.x/installation)
+- [Laravel](https://laravel.com/docs/10.x/installation)
+- [Git Commands](https://github.com/git-guides/install-git)

@@ -52,4 +52,5 @@
 
    > References
 
-- ![Laravel](https://laravel.com/docs/10.x/installation)
+- [Laravel](https://laravel.com/docs/10.x/installation)
+- [Git Commands](https://github.com/git-guides/install-git)
